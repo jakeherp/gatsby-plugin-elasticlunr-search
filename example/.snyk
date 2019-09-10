@@ -612,3 +612,15 @@ patch:
         patched: '2019-09-10T07:40:46.422Z'
     - gatsby > relay-compiler > babel-preset-fbjs > babel-plugin-transform-es2015-function-name > babel-helper-function-name > babel-types > lodash:
         patched: '2019-09-10T07:40:46.422Z'
+    - gatsby > css-loader > lodash:
+        patched: '2019-09-10T07:42:23.553Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-09-10T07:42:23.553Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-09-10T07:42:23.553Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-09-10T07:42:23.553Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-09-10T07:42:23.553Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2019-09-10T07:42:23.553Z'
