@@ -612,3 +612,8 @@ patch:
         patched: '2019-09-10T07:40:46.422Z'
     - gatsby > relay-compiler > babel-preset-fbjs > babel-plugin-transform-es2015-function-name > babel-helper-function-name > babel-types > lodash:
         patched: '2019-09-10T07:40:46.422Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-03T21:49:43.863Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-03T21:49:43.863Z'
